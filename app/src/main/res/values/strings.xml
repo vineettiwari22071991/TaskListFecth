@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TaskListFecth</string>
+    <string name="sub_heading">Sub heading</string>
+    <string name="header_text">header Text</string>
+    <string name="internet">Please check Internet Connection</string>
+    <string name="image">image</string>
 </resources>
